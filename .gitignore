@@ -1,0 +1,5 @@
+# Ignore everything
+*
+
+# Allow only index.html
+!index.html
