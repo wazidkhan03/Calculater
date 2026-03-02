@@ -3,3 +3,4 @@
 
 # Allow only index.html
 !index.html
+!index.css
